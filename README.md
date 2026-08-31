@@ -37,7 +37,7 @@ The design integrates the USB and Ethernet interfaces around the LAN7800, with d
 The USB host connection is implemented using a **USB Type-A plug connected to the PCB through a short cable/pigtail**, allowing the finished board to operate as a direct-connect USB Ethernet dongle.
 
 <p align="center">
-  <img src="PDFs/USB-Ethernet_schematic_closeup.png" width="600">
+  <img src="PDFs/USB-Ethernet-Embedded-Controller-1.png" width="600">
 </p>
 
 <p align="center">
