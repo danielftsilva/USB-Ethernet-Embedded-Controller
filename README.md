@@ -36,25 +36,9 @@ The design integrates the USB and Ethernet interfaces around the LAN7800, with d
 
 The USB host connection is implemented using a **USB Type-A plug connected to the PCB through a short cable/pigtail**, allowing the finished board to operate as a direct-connect USB Ethernet dongle.
 
-<p align="center">
-  <img src="PDFs/USB-Ethernet-Embedded-Controller-1.png" width="600">
-</p>
-
-<p align="center">
-  <em>LAN7800 USB and Gigabit Ethernet interface section.</em>
-</p>
-
 ### Power Architecture
 
 The board includes a dedicated power-conversion stage to generate the required 3.3 V supply from the USB VBUS input, together with local decoupling and filtering for the main devices.
-
-<p align="center">
-  <img src="PDFs/Power_schematic_closeup.png" width="500">
-</p>
-
-<p align="center">
-  <em>Power regulation and filtering section.</em>
-</p>
 
 ## Project Status
 
